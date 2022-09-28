@@ -1,7 +1,7 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "",
+  "name": "c.r userbot",
+  "description": " Arabic cristin Powerful & Safe based on Telethon",
+  "logo": "https://telegra.ph/file/54699e9f531dfac087926.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -55,7 +55,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
